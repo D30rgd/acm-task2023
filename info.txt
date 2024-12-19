@@ -1,0 +1,19 @@
+it waorks mostly based on tailwind css
+
+
+
+here in one folder you have to name page.tsx where your page will render and in route it show path of folder where this file is contains
+
+
+now in root folder (i.e. app) there is one page.tsx so it is hom page and layout.tsx it decide whole layout
+
+if we want another layout we have to give layout.tsx in another folder
+
+step by step build project
+
+1. navbar
+
+
+Aceternity UI   library for attractive degisn
+
+to use react hooks we should ue use client to become client not server
